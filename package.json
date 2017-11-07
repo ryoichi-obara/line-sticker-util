@@ -1,0 +1,31 @@
+{
+  "name": "line-sticker-util",
+  "version": "1.0.0",
+  "description": "Util for LINE Sticker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoichi-obara/line-sticker-util.git"
+  },
+  "keywords": [
+    "LINE",
+    "Sticker"
+  ],
+  "author": "Ryoichi Obara <npmjs0102@gmail.com> (http://ryoichi0102.hatenablog.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryoichi-obara/line-sticker-util/issues"
+  },
+  "homepage": "https://github.com/ryoichi-obara/line-sticker-util#readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "ava": "^0.23.0",
+    "coveralls": "^3.0.0",
+    "nyc": "^11.2.1"
+  }
+}
